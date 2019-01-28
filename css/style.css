@@ -1,0 +1,26 @@
+    h1{
+        color: red
+    }
+    .kick, .snare{
+        color: white;
+        background: black;
+        border: solid brown 1 px;
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        transition:  .2s;
+    }
+    .snare{
+     
+        background: yellow;
+       
+    }
+    .attack{
+        color: white;
+        background: blueviolet;
+        border: solid red 5px;
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        transition:  .2s;
+    }
